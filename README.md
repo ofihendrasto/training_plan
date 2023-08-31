@@ -6,4 +6,5 @@ training agenda repo
 - Fajar
 - Ofi
 - Alvein
+- Atifa
 - .....
